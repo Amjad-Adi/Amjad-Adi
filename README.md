@@ -1,16 +1,42 @@
-## Hi there 👋
+Amjad Qaher Sadek Adi
+Ramallah, Palestine
+📧 amjadqaher@email.com | 📞 +972 59-524-6016 | GitHub | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-adi-308b06338)
 
-<!--
-**Amjad-Adi/Amjad-Adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Education
+Birzeit University — B.Sc. in Computer Engineering
+GPA: 94.7 | Expected Graduation: Summer 2027
+Consistently ranked among the top IT students for four consecutive years.
 
-Here are some ideas to get you started:
+💻 Technical Skills
+Programming: C, C++, Java, HTML, CSS, Arduino (Embedded C)
+Core Areas: Data Structures, Algorithms, OOP, Front-End Development, Embedded Systems, Computer Vision
+Tools: Tinkercad, Robotix, Git, Codeforces, LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Experience & Courses
+Completed a full course in HTML/CSS, mastering web structure, styling, and responsive design.
+
+Built over 100+ algorithmic solutions on Codeforces and LeetCode, using techniques like dynamic programming and graph traversal.
+
+Participated in local coding competitions (IEEE, university-level), earning top 5 placements and regional recognition.
+
+Completed a hands-on Arduino course, focusing on embedded system integration and real-world automation.
+
+Currently pursuing a Quality Assurance course to build strong foundations in software testing and reliability.
+
+🔬 Projects
+Responsive Restaurant Website (August 2024)
+Built a mobile-first, fully responsive French restaurant website using HTML and CSS.
+
+University Algorithm Projects (Feb – June 2025)
+Developed applications solving real-world problems such as task management systems and route optimization in Palestine using graph theory and advanced data structures.
+
+Autonomous Robot – WRO 2025 (May 2025 – Present)
+Designing a vision-based robot for WRO competition featuring real-time object detection, image processing, and autonomous navigation.
+
+Smart Parking Gate System (Feb 2025)
+Built with Arduino, integrated IR sensors and servo mechanisms to automate vehicle access; project in collaboration with Robotix.
+
+🏅 Honors & Achievements
+5th Place – Local IEEE Problem-Solving Competition
+
+High Distinction – Academic Honor Roll for Four Consecutive Years
