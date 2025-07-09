@@ -1,6 +1,6 @@
 Amjad Qaher Sadek Adi
 Ramallah, Palestine
-📧 amjadqaher@email.com | 📞 +972 59-524-6016 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-adi-308b06338)
+📧 amjadqaher@gmail.com | 📞 +972 59-524-6016 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-adi-308b06338)
 
 🎓 Education
 Birzeit University — B.Sc. in Computer Engineering
