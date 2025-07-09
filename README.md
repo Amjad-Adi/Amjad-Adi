@@ -1,6 +1,6 @@
 Amjad Qaher Sadek Adi
 Ramallah, Palestine
-📧 amjadqaher@email.com | 📞 +972 59-524-6016 | GitHub | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-adi-308b06338)
+📧 amjadqaher@email.com | 📞 +972 59-524-6016 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-adi-308b06338)
 
 🎓 Education
 Birzeit University — B.Sc. in Computer Engineering
@@ -10,8 +10,8 @@ Consistently ranked among the top IT students for four consecutive years.
 💻 Technical Skills
 Programming: C, C++, Java, HTML, CSS, Arduino (Embedded C)
 Core Areas: Data Structures, Algorithms, OOP, Front-End Development, Embedded Systems, Computer Vision
-Tools: Tinkercad, Robotix, Git, Codeforces, LeetCode
-
+LeetCode: https://leetcode.com/u/Amjad_Adi_123/
+CodeForce: https://codeforces.com/profile/Amjad_Adi
 🧠 Experience & Courses
 Completed a full course in HTML/CSS, mastering web structure, styling, and responsive design.
 
