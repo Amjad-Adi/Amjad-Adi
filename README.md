@@ -13,7 +13,7 @@ Competitive Programming: Solved 400+ problems on Codeforces and LeetCode, focusi
 
 IEEE Head-to-Head: Ranked 3rd and 4th in consecutive years at Birzeit University.
 
-Academic Excellence: Consistently ranked among the top IT students with a 94.4/100 GPA.
+Academic Excellence: Consistently ranked among the top IT students with a 94.4/100 GPA at Birzeit University.
 
 📁 Featured Projects
 AI Arabic Sentiment Model
