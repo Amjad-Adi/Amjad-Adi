@@ -102,7 +102,7 @@ Java-based operating system simulator implementing CPU scheduling, resource allo
 
 ### 🏥 [Hospital Patient Management System](https://github.com/Amjad-Adi/Hospital_Patient_Management_System)
 
-Comprehensive Java system demonstrating advanced object-oriented design principles applied to healthcare domain modeling. *(Grade: 9.3/10)*
+Comprehensive Java system demonstrating advanced object-oriented design principles applied to healthcare domain modeling.
 
 **Highlights:**
 - Modeled complex inheritance hierarchy with PatientBase abstract class and specialized subclasses
@@ -202,7 +202,6 @@ GPA: 94.4/100
 - 400+ competitive programming problems solved
 - 2x IEEE Competition ranked finalist
 - 95.44% accuracy on Penn Treebank POS Tagging model
-- 9.3/10 score on Hospital Management System
 - 3NF database design with enterprise architecture
 - Custom Transformer model built from scratch
 - Multiple production-ready applications deployed
