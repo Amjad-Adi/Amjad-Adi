@@ -1,29 +1,30 @@
 # Amjad Adi
 
-**Computer Engineering Student** | Birzeit University, Ramallah, Palestine  
-[LinkedIn](https://linkedin.com) | [GitHub](https://github.com/Amjad-Adi) | [Email](mailto:your.email@example.com)
+**Computer Engineering Student** | Birzeit University, Ramallah, Palestine
+[LinkedIn](https://www.linkedin.com/in/amjad-adi-308b06338) | [GitHub](https://github.com/Amjad-Adi) | [Email](mailto:amjadqaher@gmail.com)
 
 ---
 
 ## 🛠️ Technical Expertise
 
-**Languages:** Java, Python, C, C++, Verilog, Assembly, Shell Script
+**Languages:** Java, Python, C, SQL, Verilog HDL, Bash
 
-**Frameworks & Libraries:** JavaFX, Android, PyTorch, Pandas, NLTK, Scikit-learn, MARBERT
+**Frameworks & Libraries:** JavaFX, Android SDK, PyTorch, Pandas, NLTK, Scikit-learn, Hugging Face Transformers (BERT, MARBERT)
 
-**Core Competencies:** Machine Learning/NLP, Full-Stack Development, Database Design, Systems Programming, Mobile Development, Networking, Encryption
+**Core Competencies:** RTL Design & Digital Verification, VLSI/Analog Circuit Design, Machine Learning/NLP, Full-Stack Development, Database Design, Systems Programming, Mobile Development, Networking, Shell Scripting
 
-**Tools & Platforms:** MySQL, PostgreSQL, SQLite, Maven, Git, Linux, Cloudinary, Android Studio
+**Tools & Platforms:** MySQL, SQLite, Maven, Git, Linux, ModelSim/Icarus Verilog, SPICE (ngspice/LTspice), Electric VLSI, Cloudinary, Android Studio
 
 ---
 
 ## 🏆 Key Achievements
 
-- Solved 400+ competitive programming problems on Codeforces and LeetCode
-- Ranked 3rd and 4th in IEEE Birzeit University Head-to-Head competitions
-- Maintained 94.4/100 GPA at Birzeit University
-- Built custom Transformer model achieving 95.44% accuracy on Penn Treebank Corpus
-- Developed production-ready applications in partnership with real-world clients
+- Solved 450+ competitive programming problems on Codeforces and LeetCode
+- Ranked 4th and 3rd in two consecutive IEEE Birzeit University Head-to-Head competitions, and 4th in the CES Club Team Competition
+- Maintained a 94.4/100 GPA at Birzeit University, ranked among the top IT students for 7 consecutive semesters
+- Built a custom Transformer model from scratch achieving 95.44% accuracy (87.54% macro F1) on the Penn Treebank corpus
+- Co-authored a paper on a low-power Conditional-Capture Flip-Flop in 22nm CMOS, achieving a 42.5% reduction in dynamic power versus a benchmark reference design
+- Developed a full-stack bookstore management system for a real library client (Al-Bireh Public Library, Ramallah & Al-Bireh)
 
 ---
 
@@ -31,194 +32,243 @@
 
 ### 📚 [Bookstore Management System](https://github.com/Amjad-Adi/BookStore-System)
 
-A full-stack desktop application developed in partnership with Al-Bireh Public Library (Ramallah), demonstrating enterprise-grade architecture and professional software engineering practices.
+*With Waseem Yahya — COMP333 Database Systems*
+
+A full-stack desktop application developed for Al-Bireh Public Library (Ramallah & Al-Bireh), demonstrating layered architecture and secure data handling.
 
 **Highlights:**
-- Designed 3NF database with 15+ entities and complex relationships
-- Implemented multi-user system with role-based access control (Admin, Worker, Customer)
-- Integrated AES-128 encryption for secure credential storage and SHA-256 password hashing
-- Applied MVC architecture with DAO pattern for data abstraction
-- Built responsive UI with JavaFX supporting transactions, inventory management, and reporting
-- Real-world application for library operations and resource management
+- Multi-user system with role-based access control (Admin, Worker, Customer)
+- AES encryption utilities and password-hashing helpers for credential security
+- MVC-style architecture with a DAO layer abstracting all database access
+- JavaFX UI supporting product catalog, cart/orders (sales & rentals), payments/installments, inventory across warehouses, and reporting
+- SQL-injection protection via parameterized PreparedStatements throughout the DAO layer
 
-**Tech Stack:** Java, JavaFX, MySQL, JDBC, Maven
-
-**Academic Context:** COMP333 Database Systems (Birzeit University)
-
----
-
-### 🤖 [Transformer-Based Part-of-Speech Tagger](https://github.com/Amjad-Adi/ENCS5342-Part-of-Speech-POS-tagging)
-
-Custom encoder-only Transformer built entirely from scratch for natural language processing, demonstrating deep understanding of neural architectures and rigorous experimental methodology.
-
-**Highlights:**
-- Implemented two-layer Transformer encoder with multi-head self-attention (4 heads) from scratch in PyTorch
-- Integrated sinusoidal positional encoding, residual connections, and layer normalization
-- Conducted comprehensive ablation study across 4 experiments to isolate regularization techniques
-- Applied Xavier initialization, gradient clipping, L2 weight decay, and early stopping
-- Achieved 95.44% Micro F1 and 87.54% Macro F1 on Penn Treebank Corpus (45 POS tags)
-- Performed extensive exploratory data analysis with tag ambiguity and transition analysis
-
-**Tech Stack:** Python, PyTorch, BERT Tokenizer, Scikit-learn, Pandas, Jupyter
-
-**Academic Context:** ENCS5342 Information Retrieval with Applications of NLP (Birzeit University)
+**Tech Stack:** Java, JavaFX, MySQL, Maven
 
 ---
 
 ### 📱 [Smart University Events App](https://github.com/Amjad-Adi/ENCS5150_Smart_Univetrsity_Event_App)
 
-Production-ready Android application enabling university event management with comprehensive backend architecture, demonstrating professional mobile development practices and enterprise design patterns.
+*With AbdAlrahman Atyani — ENCS5150 Mobile Application Development*
+
+An Android application for university event discovery, reservations, and admin management, built with a repository-based MVC architecture.
 
 **Highlights:**
-- Architected MVC application with clear separation between View (Activities/Fragments), Controller (Business Logic), and Model (Database/API)
-- Built SQLite database with 7+ repository classes implementing CRUD operations
-- Implemented comprehensive authentication with session persistence and "Remember Me" functionality
-- Developed admin dashboard for managing users, events, reservations, and reviews
-- Integrated Cloudinary for cloud-based image storage and profile management
-- Applied Repository Pattern, Singleton Pattern, and Dependency Injection for maintainability
-- Handled asynchronous operations for image uploads and API requests using background threads
+- MVC-style separation across Activities/Fragments (view), a controller package per feature area, and a model layer with entity + repository classes
+- 7 repository classes (User, Admin, Event, Reservation, Favourite, Review, Person) abstracting all SQLite CRUD operations
+- Authentication with "Remember Me" and session persistence via SharedPreferences, seeded with a default admin account
+- Cloudinary integration for profile and event image uploads, handled asynchronously
 
-**Tech Stack:** Java, Android SDK, SQLite, Cloudinary, Material Design, RecyclerView, Fragments
-
-**Academic Context:** ENCS5150 Mobile Application Development (Birzeit University)
+**Tech Stack:** Java, Android SDK, SQLite, Cloudinary
 
 ---
 
 ### 💻 [Operating Systems Process Scheduler](https://github.com/Amjad-Adi/OS_Process_Scheduler)
 
-Java-based operating system simulator implementing CPU scheduling, resource allocation, and deadlock detection mechanisms, demonstrating systems-level programming expertise.
+A Java-based operating system simulator implementing CPU scheduling, resource allocation, and deadlock detection.
 
 **Highlights:**
-- Implemented Priority scheduling combined with Round Robin using dynamic time quantum
-- Modeled full process lifecycle (Ready, Running, Waiting states) with realistic state transitions
-- Built resource allocation system with deadlock detection using Banker-style safety algorithm
-- Integrated aging mechanism to prevent process starvation
-- Calculated performance metrics including average waiting/turnaround time
-- Visualized execution with Gantt charts for process timeline analysis
+- Hybrid Priority + Round Robin scheduler with a dynamic, burst-distribution-based time quantum
+- Aging mechanism to prevent starvation, plus full process lifecycle modeling (arrival → ready → running → waiting → terminated)
+- Resource allocation with Banker-style deadlock detection and priority/allocation-aware victim selection for recovery
+- JavaFX visualization of the execution timeline (Gantt chart) alongside average waiting/turnaround time metrics
 
 **Tech Stack:** Java, JavaFX
 
 ---
 
-### 🏥 [Hospital Patient Management System](https://github.com/Amjad-Adi/Hospital_Patient_Management_System)
+### 🏗️ [32-bit Five-Stage Pipelined RISC Processor](https://github.com/Amjad-Adi/ENCS4370_Pipelined_32-bit_RISC_Processor_Design)
 
-Comprehensive Java system demonstrating advanced object-oriented design principles applied to healthcare domain modeling.
+*With Amir and Hanan Alawawda — ENCS4370 Computer Architecture*
+
+A complete five-stage pipelined RISC processor implemented in Verilog, with full datapath, control unit, hazard detection, and data forwarding.
 
 **Highlights:**
-- Modeled complex inheritance hierarchy with PatientBase abstract class and specialized subclasses
-- Implemented polymorphic billing calculations based on patient type (emergency vs. long-term)
-- Built doctor salary computation system with overtime calculations
-- Applied Collections framework for managing patients, doctors, departments, and services
-- Designed custom sorting using comparators for multiple attributes
-- Demonstrated clean class design with proper encapsulation and separation of concerns
+- Built the IF/ID/EX/MEM/WB pipeline with dedicated pipeline registers and a custom forwarding unit
+- Implemented load-use stall detection and branch/jump instruction flushing
+- Designed the ALU (8 operations), register file, control unit, and extender units from scratch
+- Verified functionality and hazard handling with dedicated Verilog testbenches (ModelSim & Icarus Verilog)
 
-**Tech Stack:** Java, Collections Framework
+**Tech Stack:** Verilog, RTL Design, ModelSim, Icarus Verilog
 
 ---
 
-### 🔐 [Sudoku Engine — CSP & Simulated Annealing](https://github.com/Amjad-Adi/Sudoku-Solver-using-CSP-Simulated-Annealing)
+### ⚡ [Low-Power Conditional-Capture Flip-Flop (CCFF)](https://github.com/Amjad-Adi/Low-Power-Conditional-Capture-Flip-Flop-CCFF-)
 
-Advanced algorithm implementation combining constraint satisfaction problems with optimization techniques for intelligent puzzle generation and solving.
+*With Hanan Alawawda and Dana Obaid*
+
+Design, SPICE simulation, and physical layout of a low-power sequential cell for reduced dynamic power consumption in 22nm CMOS.
 
 **Highlights:**
-- Implemented backtracking with constraint propagation for efficient CSP solving
-- Applied Simulated Annealing metaheuristic for optimized puzzle generation
-- Integrated difficulty level tuning for puzzle customization
-- Performed performance benchmarking and algorithm validation
+- Achieved a 42.5% reduction in dynamic power versus the Kong et al. reference CCFF design (185.05 µW vs. 322 µW, matched load conditions)
+- Implemented transistor-level SPICE circuits using a 22nm High-Performance Predictive Technology Model
+- Built a full standard-cell layout in Electric VLSI with hierarchical M1–M6 routing, followed by LVS verification and RC-parasitic extraction
+- Validated robustness through temperature (0–60°C) and supply voltage (0.7–1.2V) sensitivity sweeps
+- Benchmarked against three literature designs (Kong et al., Zhao & Roy, Roy & Prasad)
 
-**Tech Stack:** Python, Algorithms, Optimization
+**Tech Stack:** SPICE, Electric VLSI, 22nm CMOS PTM
 
 ---
 
-### 📊 [Palestine MST Road Map](https://github.com/Amjad-Adi/Palestine_MST_RoodMap)
+### 🔌 [Single-Channel DMA Controller (UART → Memory)](https://github.com/Amjad-Adi/Simplified-Single-Channel-DMA-Controller)
 
-Real-world application of graph algorithms for route optimization and network planning.
+*With Hanan Alawawda — ENCS3310 Advanced Digital Design*
+
+A simplified single-channel DMA controller in Verilog that autonomously moves data from a UART peripheral into memory without continuous CPU involvement.
 
 **Highlights:**
-- Implemented Prim's and Kruskal's algorithms for Minimum Spanning Tree computation
-- Applied greedy approaches for optimal route planning between cities
-- Processed real geographical data for Palestinian cities
-- Demonstrated graph data structure manipulation and optimization
+- Designed a 3-state FSM to orchestrate byte-level read/write handshaking between UART and memory
+- Built and independently verified three modules — UART, Memory, and the DMA controller FSM — before system-level integration
+- Confirmed correct end-to-end behavior across multiple transfers of different sizes and start addresses
 
-**Tech Stack:** C, Graph Algorithms
+**Tech Stack:** Verilog, FSM Design, Digital Design
 
 ---
 
-### 🎮 [Multiplayer Game Server](https://github.com/Amjad-Adi/Game-Server)
+### 🎮 [Socket Programming: HTTP Server & Multiplayer Quiz Game](https://github.com/Amjad-Adi/ENCS3320_1230800_1230892_1230256_Socket_Programming)
 
-Multi-threaded server supporting concurrent players with real-time state synchronization for interactive gameplay.
+*With Mohyi Barghouti and Elyas Ihmud (Team T006) — ENCS3320 Computer Networks*
+
+Two pure-Python, standard-library-only socket programming projects: a bilingual HTTP web server and a multiplayer TCP/UDP quiz game.
 
 **Highlights:**
-- Designed multi-threaded architecture with thread pooling for concurrent client handling
-- Implemented Socket programming for real-time network communication
-- Built live state management for synchronized game questions and answers
-- Designed scalable architecture supporting multiple simultaneous players
+- **HTTP server:** manual HTTP/1.1 request parsing, English/Arabic routing, MIME-type detection, and custom 403/404 error pages
+- **Quiz game:** hybrid TCP (registration, questions, results) + UDP (answer submission, instant feedback) architecture supporting 2–4 concurrent players
+- Thread-per-client model with shared game state (scores, player list) synchronized across threads
+- Port numbers computed programmatically from student IDs per assignment spec
 
-**Tech Stack:** Java, Socket Programming, Multithreading
+**Tech Stack:** Python, Socket Programming, Multithreading, HTTP
+
+---
+
+### 🐚 [Online Course Log Analyzer](https://github.com/Amjad-Adi/Online-Course-Log-Analyzer)
+
+*With Hanan Alawawda — ENCS3130 Shell Scripting*
+
+A menu-driven Bash system for analyzing online course attendance logs, built from two modular shell scripts with input validation.
+
+**Highlights:**
+- 9 reporting modes: session counts per course, average attendance, absentees, late/early arrivals, per-student session duration, per-instructor attendance, and Zoom vs. Teams usage
+- Chains core Linux text-processing tools (`grep`, `cut`, `awk`, `join`, `uniq`, `bc`) to extract and compute statistics directly from raw log files
+- Cross-references the log file against a course registration file to identify students who never attended
+- Validates the log file path on startup and re-prompts until a readable file is supplied
+
+**Tech Stack:** Bash, Shell Scripting, Linux
+
+---
+
+### 🤖 [Transformer-Based Part-of-Speech Tagger](https://github.com/Amjad-Adi/ENCS5342-Part-of-Speech-POS-tagging)
+
+*With Hanan Alawawda and Halima Hmaid — ENCS5342 Information Retrieval with Applications of NLP*
+
+A custom encoder-only Transformer built entirely from scratch (no `nn.Transformer`, no pretrained weights) for POS tagging on the Penn Treebank corpus.
+
+**Highlights:**
+- Two-layer Transformer encoder with 4-head multi-head self-attention, sinusoidal positional encoding, and layer normalization, hand-coded in PyTorch
+- BERT subword tokenization with correct word-to-tag alignment (first subword token)
+- Incremental ablation study isolating the contribution of dropout, gradient clipping, weight decay, and an LR scheduler
+- Achieved 95.44% Micro F1 (accuracy) and 87.54% Macro F1 across 45 POS tags, outperforming a majority-tag baseline and both other ablation configurations
+
+**Tech Stack:** Python, PyTorch, BERT Tokenizer (Hugging Face Transformers)
+
+---
+
+### 🔐 [Sudoku Generator & Solver — CSP & Simulated Annealing](https://github.com/Amjad-Adi/Sudoku-Solver-using-CSP-Simulated-Annealing)
+
+*With Hanan Alawawda — ENCS3340 Artificial Intelligence*
+
+A comparative study of two AI approaches — CSP backtracking and Simulated Annealing — for solving 9×9 and 16×16 Sudoku puzzles.
+
+**Highlights:**
+- CSP solver combining MRV, MCV, and LCV heuristics with forward checking, benchmarked against a pure-backtracking baseline
+- Simulated Annealing formulation with a cost function penalizing row/column/sub-grid duplicates and empty cells
+- Benchmarked both approaches across Easy/Medium/Hard difficulty levels on execution time, completeness, constraint violations, and backtrack/iteration counts
+
+**Tech Stack:** Python, CSP, Simulated Annealing
 
 ---
 
 ### 🤖 [Arabic Sentiment Analysis Model](https://github.com/Amjad-Adi/Arabic-Sentiment-Analysis)
 
-Machine learning classifier for Arabic text sentiment analysis using transformer models and deep learning techniques.
+*With Hanan Alawawdeh*
+
+A comparative study of three model families for three-class Arabic sentiment classification, with Arabic-specific text preprocessing and feature fusion.
 
 **Highlights:**
-- Integrated MARBERT transformer for Arabic language processing
-- Applied TF-IDF vectorization with Scikit-learn
-- Trained multiple neural network models for sentiment classification
-- Focused on Arabic tweet sentiment analysis and classification accuracy
+- Compared Naive Bayes (TF-IDF), an MLP neural network, and a Balanced Random Forest, each on fused TF-IDF + MARBERT embeddings (except Naive Bayes, TF-IDF only)
+- Arabic-specific preprocessing pipeline: character/diacritic normalization, emoji/emoticon-to-text mapping, and repeated-character reduction
+- Hyperparameter tuning via zoom-optimization (Naive Bayes) and RandomizedSearchCV (MLP, Random Forest)
+- Balanced-class handling via BalancedRandomForestClassifier and custom class-prior mixing
 
-**Tech Stack:** Python, MARBERT, Scikit-learn, TensorFlow, NLTK
+**Tech Stack:** Python, PyTorch, Hugging Face Transformers (MARBERT), Scikit-learn, NLTK
+
+---
+
+### 🏥 [Hospital Patient Management System](https://github.com/Amjad-Adi/Hospital_Patient_Management_System)
+
+A Java system modeling healthcare domain objects with an inheritance-based design.
+
+**Highlights:**
+- Abstract `PatientBase` class with specialized subclasses for different patient types
+- Polymorphic billing calculations that vary by patient type (e.g., emergency vs. long-term)
+- Doctor salary computation including overtime, with custom comparator-based sorting across multiple attributes
+
+**Tech Stack:** Java, Collections Framework
+
+---
+
+### 📊 [Palestine MST Road Map](https://github.com/Amjad-Adi/Palestine_MST_RoodMap)
+
+A graph-algorithms project applying Minimum Spanning Tree computation to route planning between Palestinian cities.
+
+**Highlights:**
+- Prim's and Kruskal's algorithms implemented for MST computation
+- Applied to real geographical/city data for route optimization
+
+**Tech Stack:** C, Graph Algorithms
 
 ---
 
 ### Additional Projects
 
-**Task Management Systems** — Data structure implementations using Binary Search Trees and Linear structures (Linked Lists, Stacks)
+*The following don't yet have a detailed README in this profile — descriptions kept brief until documented:*
 
-**Arduino Gate System** — IoT automation with proximity sensors for vehicle detection and automated gate control
-
-**Pipelined 32-bit RISC Processor Design** — Digital design implementing CPU pipeline architecture in Verilog
-
-**Assembly Task Scheduler** — Low-level systems programming in assembly language
-
-**Log Analyzer** — Automated log parsing utility using shell scripting
-
-**Network Socket Programming** — Foundational networking implementation with socket-based communication
+- **Task Management Systems** — Data structure implementations using Binary Search Trees and linear structures (linked lists, stacks)
+- **Arduino Gate System** — IoT automation with proximity sensors for vehicle detection and automated gate control
+- **Assembly Task Scheduler** — Low-level systems programming in Assembly
 
 ---
 
 ## 🎓 Education
 
-**Bachelor's in Computer Engineering**  
-Birzeit University, Ramallah, Palestine  
-*Expected Graduation: 2027*  
-GPA: 94.4/100
+**Bachelor's in Computer Engineering**
+Birzeit University, Ramallah, Palestine
+*Expected Graduation: September 2027*
+GPA: 94.4/100 — ranked among the top IT students for 7 consecutive semesters
 
 ---
 
 ## 📈 Notable Statistics
 
-- 400+ competitive programming problems solved
-- 2x IEEE Competition ranked finalist
-- 95.44% accuracy on Penn Treebank POS Tagging model
-- 3NF database design with enterprise architecture
-- Custom Transformer model built from scratch
-- Multiple production-ready applications deployed
-- Real-world client partnerships and deployments
+- 450+ competitive programming problems solved on Codeforces and LeetCode
+- 2× IEEE Head-to-Head competition finalist, plus a CES Club Team Competition placement
+- 95.44% accuracy (87.54% macro F1) on a from-scratch Transformer POS tagger
+- 42.5% dynamic power reduction on a 22nm CCFF design, with a full pre-/post-layout verification flow
+- A pipelined 32-bit RISC processor built with complete hazard detection and forwarding
+- Multiple team-based projects across hardware (RTL, VLSI), backend systems, mobile, and ML/NLP
 
 ---
 
 ## 🤝 Let's Connect
 
 I'm interested in opportunities involving:
-- Software development and architecture
+- Hardware design & digital verification (RTL, FSMs, testbenches)
+- Backend and systems software development
 - Machine Learning and NLP research
 - Full-stack and mobile application development
-- System design and optimization
 - Collaborative projects and open-source contributions
 
-Feel free to reach out through [LinkedIn](https://linkedin.com) or [Email](mailto:your.email@example.com)
+Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/amjad-adi-308b06338) or [Email](mailto:amjadqaher@gmail.com)
 
 ---
 
