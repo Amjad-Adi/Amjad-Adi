@@ -30,6 +30,22 @@
 
 ## 📁 Featured Projects
 
+### 📅 [Appointment Booking System](https://github.com/Amjad-Adi/Appointment_Booking_System_Client)
+
+A full-stack appointment booking platform with customer, organization, and super-admin views.
+
+**Highlights:**
+- Service and room browsing, appointment booking and cancellation, favourites, and reviews
+- Organization management with working hours, special days, time blocks, and staff access
+- Firebase authentication, JWT cookie sessions, Cloudinary image uploads, and email invitations
+- Map-based locations with Leaflet and PostgreSQL/PostGIS
+
+**Tech Stack:** TypeScript, React, Tailwind CSS, React Query, Node.js, Express, PostgreSQL, Firebase
+
+[Live demo](https://appointment-booking-system-client.vercel.app/) · [Client](https://github.com/Amjad-Adi/Appointment_Booking_System_Client) · [Server](https://github.com/Amjad-Adi/Appointment_Booking_System_Server)
+
+---
+
 ### 📚 [Bookstore Management System](https://github.com/Amjad-Adi/BookStore-System)
 
 *With Waseem Yahya — COMP333 Database Systems*
