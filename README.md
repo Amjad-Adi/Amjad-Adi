@@ -46,6 +46,21 @@ A full-stack appointment booking platform with customer, organization, and super
 
 ---
 
+### 🛒 [Ihmom Store](https://github.com/ElyasNajeh/Ihmom-Store)
+
+Built with [Elyas Najeh](https://github.com/ElyasNajeh): I developed the frontend, and Elyas developed the backend. The original repository is maintained under Elyas's account.
+
+A bilingual Arabic/English e-commerce platform with a React and TypeScript storefront and admin dashboard, backed by FastAPI and PostgreSQL.
+
+My frontend work includes RTL/LTR layouts, product browsing, cart and checkout screens, guest order lookup, and admin interfaces for products, orders, customers, and invoices.
+
+**Frontend:** React 19, TypeScript, Vite, Tailwind CSS, TanStack Query and Table, React Hook Form with Zod, React Router, i18next (Arabic/English), Leaflet maps, Recharts dashboards
+**Backend by Elyas:** FastAPI, SQLAlchemy/Alembic, PostgreSQL, Redis
+
+Original repository: https://github.com/ElyasNajeh/Ihmom-Store · Elyas: https://github.com/ElyasNajeh
+
+---
+
 ### 📚 [Bookstore Management System](https://github.com/Amjad-Adi/BookStore-System)
 
 *With Waseem Yahya — COMP333 Database Systems*
