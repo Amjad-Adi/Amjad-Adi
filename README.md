@@ -55,6 +55,7 @@ A bilingual Arabic/English e-commerce platform with a React and TypeScript store
 My frontend work includes RTL/LTR layouts, product browsing, cart and checkout screens, guest order lookup, and admin interfaces for products, orders, customers, and invoices.
 
 **Frontend:** React 19, TypeScript, Vite, Tailwind CSS, TanStack Query and Table, React Hook Form with Zod, React Router, i18next (Arabic/English), Leaflet maps, Recharts dashboards
+
 **Backend by Elyas:** FastAPI, SQLAlchemy/Alembic, PostgreSQL, Redis
 
 Original repository: https://github.com/ElyasNajeh/Ihmom-Store · Elyas: https://github.com/ElyasNajeh
