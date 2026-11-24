@@ -57,7 +57,7 @@ My frontend work includes RTL/LTR layouts, product browsing, cart and checkout s
 **Frontend:** React 19, TypeScript, Vite, Tailwind CSS, TanStack Query and Table, React Hook Form with Zod, React Router, i18next (Arabic/English), Leaflet maps, Recharts dashboards
 
 **Backend by Elyas:** FastAPI, SQLAlchemy/Alembic, PostgreSQL, Redis
-
+[Live demo]([https://ihmom-store.com/])
 Original repository: https://github.com/ElyasNajeh/Ihmom-Store · Elyas: https://github.com/ElyasNajeh
 
 ---
