@@ -58,7 +58,7 @@ My frontend work includes RTL/LTR layouts, product browsing, cart and checkout s
 
 **Backend by Elyas:** FastAPI, SQLAlchemy/Alembic, PostgreSQL, Redis
 
-[Live demo][https://ihmom-store.com/)
+[Live demo](https://ihmom-store.com/)
 
 Original repository: https://github.com/ElyasNajeh/Ihmom-Store · Elyas: https://github.com/ElyasNajeh
 
